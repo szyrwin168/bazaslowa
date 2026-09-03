@@ -1,0 +1,4 @@
+[
+  { "id": "czlowiek", "name": "Człowiek", "file": "kategorie/czlowiek.json" },
+  { "id": "miejsca", "name": "Miejsca", "file": "kategorie/miejsca.json" }
+]
