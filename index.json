@@ -5,9 +5,9 @@
   { "id": "szkola", "name": "Szkoła", "file": "kategorie/szkola.json" },
   { "id": "praca", "name": "Praca", "file": "kategorie/praca.json" },
   { "id": "turystyka", "name": "Podróżowanie i turystyka", "file": "kategorie/turystyka.json" },
-  { "id": "zakupy", "name": "Zakupy i usługi", "file": "kategorie/miejsca.json" },
+  { "id": "zakupy", "name": "Zakupy i usługi", "file": "kategorie/zakupy.json" },
   { "id": "zywienie", "name": "Żywienie", "file": "kategorie/zywienie.json" },
-  { "id": "zycie", "name": "Życie rodzinne i towarzyskie", "file": "kategorie/miejsca.json" },
-  { "id": "w-fragen", "name": "W-Fragen", "file": "kategorie/miejsca.json" },
+  { "id": "zycie", "name": "Życie rodzinne i towarzyskie", "file": "kategorie/zycie.json" },
+  { "id": "w-fragen", "name": "W-Fragen", "file": "kategorie/wfragen.json" },
   { "id": "pory", "name": "Pory dnia, roku, miesiące, dni tygodnia", "file": "kategorie/pory.json" }
 ]
