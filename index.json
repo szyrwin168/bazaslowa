@@ -1,4 +1,13 @@
 [
   { "id": "czlowiek", "name": "Człowiek", "file": "kategorie/czlowiek.json" },
-  { "id": "miejsca", "name": "Miejsca", "file": "kategorie/miejsca.json" }
+  { "id": "dom", "name": "Dom", "file": "kategorie/dom.json" },
+  { "id": "kultura", "name": "Kultura", "file": "kategorie/kultura.json" },
+  { "id": "szkola", "name": "Szkoła", "file": "kategorie/szkola.json" },
+  { "id": "praca", "name": "Praca", "file": "kategorie/praca.json" },
+  { "id": "turystyka", "name": "Podróżowanie i turystyka", "file": "kategorie/turystyka.json" },
+  { "id": "zakupy", "name": "Zakupy i usługi", "file": "kategorie/miejsca.json" },
+  { "id": "zywienie", "name": "Żywienie", "file": "kategorie/zywienie.json" },
+  { "id": "zycie", "name": "Życie rodzinne i towarzyskie", "file": "kategorie/miejsca.json" },
+  { "id": "w-fragen", "name": "W-Fragen", "file": "kategorie/miejsca.json" },
+  { "id": "pory", "name": "Pory dnia, roku, miesiące, dni tygodnia", "file": "kategorie/pory.json" }
 ]
