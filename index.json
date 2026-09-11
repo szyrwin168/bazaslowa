@@ -9,5 +9,11 @@
   { "id": "zywienie", "name": "Żywienie", "file": "kategorie/zywienie.json" },
   { "id": "zycie", "name": "Życie rodzinne i towarzyskie", "file": "kategorie/zycie.json" },
   { "id": "w-fragen", "name": "W-Fragen", "file": "kategorie/wfragen.json" },
-  { "id": "pory", "name": "Pory dnia, roku, miesiące, dni tygodnia", "file": "kategorie/pory.json" }
+  { "id": "pory", "name": "Pory dnia, roku, miesiące, dni tygodnia", "file": "kategorie/pory.json" },
+  { "id": "przyimki3", "name": "Przyimki III przypadek", "file": "kategorie/przyimki3.json" },
+  { "id": "przyimki4", "name": "Przyimki IV przypadek", "file": "kategorie/przyimki4.json" },
+  { "id": "przyimki34", "name": "Przyimki III i IV przypadek", "file": "kategorie/przyimki34.json" },
+  { "id": "tabelka", "name": "Tabelka der, die, das", "file": "kategorie/tabelka.json" },
+  { "id": "spojniki_prosty", "name": "Spójniki szyk prosty", "file": "kategorie/spojniki_prosty.json" },
+  { "id": "spojniki_przestawny", "name": "Spójniki szyk przestawny", "file": "kategorie/spojniki_przestawny.json" }
 ]
