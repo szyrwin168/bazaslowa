@@ -21,11 +21,11 @@
   { "id": "tabelka", "name": "Tabelka der, die, das", "file": "kategorie/tabelka.json" },
   { "id": "spojniki_prosty", "name": "Spójniki szyk prosty", "file": "kategorie/spojniki_prosty.json" },
   { "id": "spojniki_przestawny", "name": "Spójniki szyk przestawny", "file": "kategorie/spojniki_przestawny.json" },
-  { "id": "szachy1", "name": "01 Szachy podstawy", "file": "kategorie/szachy1.json" },
-  { "id": "szachy2", "name": "02 Czasowniki Szachowe", "file": "kategorie/szachy2.json" },
-  { "id": "szachy3", "name": "03 Zwroty Szachowe", "file": "kategorie/szachy3.json" },
-  { "id": "szachy4", "name": "04 Strategia Nimzowitscha", "file": "kategorie/szachy4.json" },
-  { "id": "szachy5", "name": "05 Piony i struktury", "file": "kategorie/szachy5.json" },
-  { "id": "szachy6", "name": "06 Taktyka i końcówki", "file": "kategorie/szachy6.json" },
-  { "id": "szachy7", "name": "07 Niemiecki do czytania", "file": "kategorie/szachy7.json" }
+  { "id": "szachy1", "name": "01 Szachy podstawy", "file": "szachy/szachy1.json" },
+  { "id": "szachy2", "name": "02 Czasowniki Szachowe", "file": "szachy/szachy2.json" },
+  { "id": "szachy3", "name": "03 Zwroty Szachowe", "file": "szachy/szachy3.json" },
+  { "id": "szachy4", "name": "04 Strategia Nimzowitscha", "file": "szachy/szachy4.json" },
+  { "id": "szachy5", "name": "05 Piony i struktury", "file": "szachy/szachy5.json" },
+  { "id": "szachy6", "name": "06 Taktyka i końcówki", "file": "szachy/szachy6.json" },
+  { "id": "szachy7", "name": "07 Niemiecki do czytania", "file": "szachy/szachy7.json" }
 ]
